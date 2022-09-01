@@ -1,2 +1,2 @@
 # PDC_WEBSITE_Django
-a website which is Django framework 
+a website Django framework 
